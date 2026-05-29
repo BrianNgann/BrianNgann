@@ -1,16 +1,20 @@
-## Hi there 👋
+# Brian Ngan
 
-<!--
-**BrianNgann/BrianNgann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics & Data Science student at UC Santa Barbara.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Healthcare Analytics
+* Applied AI
+* Natural Language Processing
+* Machine Learning
+
+## Featured Projects
+
+* DocTalk — Healthcare NLP Application
+* Eye-Tracking Research Analytics
+* NHANES Diabetes Analytics
+
+## Technical Skills
+
+Python, R, SQL, FastAPI, PostgreSQL, Docker, scikit-learn, spaCy
