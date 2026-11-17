@@ -11,7 +11,7 @@ Statistics & Data Science student at UC Santa Barbara. I build reproducible anal
 | [Global COVID-19 Mortality Analysis](https://github.com/BrianNgann/covid19-global-mortality-analysis) | Combined Johns Hopkins and World Bank data with BigQuery, PCA, clustering, and Random Forest; includes a report and runnable notebook. |
 | [SciTrek / RealEye Research](https://github.com/BrianNgann/Scitrek-immersive-document-pilot) | Coauthored an eye-tracking research pilot; this attributed fork contains the approved aggregate-only public release. |
 
-**DocTalk:** I proposed and named this collaborative healthcare NLP application for clearer medical notes. My commits include database-backed detection, glossary and acronym handling, negation support, and later NLP pipeline work. The team repository is private; a public fork is pending the owner's approval to publish it.
+**DocTalk:** Private team healthcare project. Details available on request.
 
 ## Tools
 
